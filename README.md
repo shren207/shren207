@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   ## ⭐️ tech ⭐️
 
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/shren207/TIL)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://github.com/shren207/TIL)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/shren207/TIL)
 [![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)](https://github.com/shren207/TIL)
 [![styled-components](https://img.shields.io/badge/💅_styled_components-DB7093?style=flat-square)](https://github.com/shren207/TIL)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://github.com/shren207/TIL)
