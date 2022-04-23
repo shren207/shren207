@@ -2,10 +2,10 @@
             
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Green%20Head&fontSize=90)
   
-## Who Am I
- <p>주니어 프론트엔드 개발자 윤녹두입니다.</p>
- <p>프로젝트에서 React, AWS를 이용하여 서비스를 설계부터 배포까지 한 경험이 있습니다.</p>
- <p>천재라 불리지는 못해도 독종이라고는 불리고 싶은 끈질긴 개발자가 되고 싶습니다.</p>
+## Me!
+ <p>Hello! I'm greenhead, a junior front-end developer!</p>
+ <p>My main skills are vanillaJS and React.</p>
+ <p>Hava a good day!</p>
  
 ## ⭐️ Tech Stacks ⭐️
 
