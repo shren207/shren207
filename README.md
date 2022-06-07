@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Green&fontSize=90)
   
 ## Me!
- <p>Hello! I'm green, a junior front-end developer!</p>
- <p>My main skills are vanillaJS and React.</p>
+ <p>Hello! I'm Green, a junior front-end developer!</p>
+ <p>My main skills are Typescript and React.</p>
  <p>Hava a good day!</p>
  
 ## ⭐️ Tech Stacks ⭐️
