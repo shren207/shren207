@@ -16,5 +16,5 @@
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://github.com/shren207/TIL)&nbsp;&nbsp; 
 
 #
-![shren's GitHub stats](https://github-readme-stats.vercel.app/api?username=shren207&show_icons=true&theme=radical)
+[![Greenhead's GitHub stats](https://test-rhgx5jpat-shren207.vercel.app/api?username=shren207)](https://github.com/anuraghazra/github-readme-stats)
 </div>
